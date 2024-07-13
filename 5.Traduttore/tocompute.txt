@@ -1,0 +1,9 @@
+/*esercizio ****/
+read(A_1);
+read(_B2); /* commento ***/
+while (<> A_1 _B2)
+    cond when (> A_1 _B2) do = A_1 - A_1 _B2
+    else = _B2 - _B2 A_1;
+print(A_1);
+print(+ (A_1 _B2 3000) 1000 8000)
+//commento
